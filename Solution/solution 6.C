@@ -1,4 +1,4 @@
-/*Write a program to enter 5 string & print in assinding order.*/
+/*Write a program to enter 5 string & print in assinding order..*/
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
