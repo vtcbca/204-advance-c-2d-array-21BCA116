@@ -1,4 +1,4 @@
-/* wap to enter two 3*3 matrix and print the sum of it*/
+/* wap to enter two 3*3 matrix and print the sum of it.*/
 #include<stdio.h>
 #include<conio.h>
 void main()
