@@ -1,4 +1,4 @@
-/*Weite a program to enter two 3*3 matrix & print multiplication of it.*/
+/*Weite a program to enter two 3*3 matrix & print multiplication of it..*/
 #include<stdio.h>
 #include<conio.h>
 void main()
