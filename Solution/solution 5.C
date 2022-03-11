@@ -1,4 +1,4 @@
-/* WAP to input any  5 ch & print vowel*/
+/* WAP to input any  5 ch & print vowel.*/
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
