@@ -1,4 +1,4 @@
-/* Write a program to enter two 3*3 matrix & check it's a diagonal matrix or not.*/
+/* Write a program to enter two 3*3 matrix & check it's a diagonal matrix or not..*/
 #include<stdio.h>
 #include<conio.h>
 void main()
