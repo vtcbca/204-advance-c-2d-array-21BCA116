@@ -1,4 +1,4 @@
-/*Write a program to enter 5 string & search user inputed string is avalibel or not.*/
+/*Write a program to enter 5 string & search user inputed string is avalibel or not..*/
 #include<stdio.h>
 #include<conio.h>
 void main()
